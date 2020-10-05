@@ -1,3 +1,8 @@
+var random = Math.floor(Math.random() * 10) + 1;
+console.log(random);
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/inuella/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
